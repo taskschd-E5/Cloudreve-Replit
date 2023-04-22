@@ -11,6 +11,6 @@
   
  `git clone https://github.com/taskschd-E5/Cloudreve-Replit && mv -b Cloudreve-Replit/* ./ && mv -b Cloudreve-Replit/.[^.]* ./ && rm -rf *~ && rm -rf Cloudreve-Replit`
   
- <br>祝你"食用"愉快:)
+ <br>祝你"食用"愉快:D
 
-<br>注:"食用"为"使用"的谐音，不要理解错了:)
+<br>注:"食用"为"使用"的谐音，不要理解错了:D
