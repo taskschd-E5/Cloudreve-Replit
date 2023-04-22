@@ -5,3 +5,8 @@
 <a href="https://repl.it/github/taskschd-E5/Cloudreve-Replit/">
   <img alt="Run on Repl.it" src="https://repl.it/badge/github/taskschd-E5/Cloudreve-Replit" style="height: 40px; width: 190px;" />
 </a
+  
+  
+ # 你也可以把以下代码粘贴到Replit的shell中来部署
+  
+  `git clone https://github.com/taskschd-E5/Cloudreve-Replit`
